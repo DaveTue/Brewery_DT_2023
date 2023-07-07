@@ -1,0 +1,107 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: titlepage.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: IEEEabrv.bib
+Database file #2: references.bib
+Warning--entry type for "ibm" isn't style-file defined
+--line 300 of file references.bib
+Warning--entry type for "pwc2014" isn't style-file defined
+--line 305 of file references.bib
+Warning--entry type for "tensorflow" isn't style-file defined
+--line 360 of file references.bib
+Warning--entry type for "pytorch" isn't style-file defined
+--line 364 of file references.bib
+Warning--entry type for "pidni" isn't style-file defined
+--line 414 of file references.bib
+Warning--entry type for "capeopen" isn't style-file defined
+--line 432 of file references.bib
+Warning--entry type for "fmi" isn't style-file defined
+--line 436 of file references.bib
+Warning--entry type for "fmidoc" isn't style-file defined
+--line 440 of file references.bib
+Warning--entry type for "ptolemy" isn't style-file defined
+--line 444 of file references.bib
+Warning--entry type for "sysml" isn't style-file defined
+--line 448 of file references.bib
+Warning--entry type for "sysmlspec" isn't style-file defined
+--line 457 of file references.bib
+Warning--entry type for "Kubernetes" isn't style-file defined
+--line 461 of file references.bib
+Warning--entry type for "boeing" isn't style-file defined
+--line 684 of file references.bib
+Warning--entry type for "Thingsboard" isn't style-file defined
+--line 739 of file references.bib
+Warning--entry type for "OMEdit" isn't style-file defined
+--line 744 of file references.bib
+Warning--entry type for "GitHubActions" isn't style-file defined
+--line 757 of file references.bib
+Warning--entry type for "Docker" isn't style-file defined
+--line 762 of file references.bib
+Warning--entry type for "Kafka" isn't style-file defined
+--line 767 of file references.bib
+Warning--entry type for "Simulink" isn't style-file defined
+--line 772 of file references.bib
+Warning--entry type for "CATIA" isn't style-file defined
+--line 777 of file references.bib
+Warning--entry type for "IBMSYSML" isn't style-file defined
+--line 800 of file references.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in Tripakis2014
+Warning--empty journal in SSP
+
+Done.
+You've used 72 entries,
+            4087 wiz_defined-function locations,
+            1797 strings with 33268 characters,
+and the built_in function-call counts, 50705 in all, are:
+= -- 3962
+> -- 1369
+< -- 373
++ -- 785
+- -- 280
+* -- 2445
+:= -- 7638
+add.period$ -- 144
+call.type$ -- 72
+change.case$ -- 70
+chr.to.int$ -- 864
+cite$ -- 74
+duplicate$ -- 3677
+empty$ -- 3921
+format.name$ -- 303
+if$ -- 11729
+int.to.chr$ -- 0
+int.to.str$ -- 72
+missing$ -- 671
+newline$ -- 323
+num.names$ -- 62
+pop$ -- 1709
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 3795
+stack$ -- 0
+substring$ -- 2177
+swap$ -- 3007
+text.length$ -- 85
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 72
+warning$ -- 2
+while$ -- 188
+width$ -- 74
+write$ -- 754
+(There were 23 warnings)

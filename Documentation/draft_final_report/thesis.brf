@@ -1,0 +1,78 @@
+\backcite {Grieves2019}{{1}{1}{chapter.1}}
+\backcite {Grieves2019}{{1}{1}{chapter.1}}
+\backcite {boeing}{{1}{1}{chapter.1}}
+\backcite {Zheng2018}{{1}{1}{chapter.1}}
+\backcite {Kwon2022}{{1}{1}{chapter.1}}
+\backcite {Duan2019}{{1}{1}{chapter.1}}
+\backcite {pwc2014, ibm}{{2}{1.1}{section.1.1}}
+\backcite {Bordeleau2020}{{2}{1.1}{section.1.1}}
+\backcite {Kossiakoff2011}{{2}{1.1}{section.1.1}}
+\backcite {Boschert2016, Macchi2018, Lim2019, Ansari2020, Cai2021, Gurdur2022}{{2}{1.1}{section.1.1}}
+\backcite {Liu2021}{{2}{1.2}{section*.6}}
+\backcite {Shafto2012}{{2}{1.2}{section*.6}}
+\backcite {Schluse2018}{{2}{1.2}{section*.6}}
+\backcite {Kritzinger2018}{{3}{1.2}{section*.6}}
+\backcite {Udugama2020, Udugama2021}{{3}{1.2}{figure.caption.7}}
+\backcite {Barricelli2020}{{3}{1.2}{figure.caption.7}}
+\backcite {Udugama2021}{{3}{1.2}{figure.caption.7}}
+\backcite {Tao2017}{{4}{1.2}{section*.8}}
+\backcite {Simulink}{{5}{1.3}{section.1.3}}
+\backcite {CATIA}{{5}{1.3}{section.1.3}}
+\backcite {brand2021}{{5}{1.3}{section.1.3}}
+\backcite {Negrin2021}{{5}{1.3}{section.1.3}}
+\backcite {Ptolemaeus2014}{{6}{1.4}{figure.caption.10}}
+\backcite {Gargalo2020}{{7}{2.1.1}{subsection.2.1.1}}
+\backcite {Udugama2021}{{7}{2.1.1}{subsection.2.1.1}}
+\backcite {Rasheed2020}{{7}{2.1.1}{subsection.2.1.1}}
+\backcite {tensorflow}{{8}{2.1.1}{subsection.2.1.1}}
+\backcite {pytorch}{{8}{2.1.1}{subsection.2.1.1}}
+\backcite {Narayanan2020, Zhou2021}{{8}{2.1.2}{subsection.2.1.2}}
+\backcite {Jiang2021}{{8}{2.1.2}{subsection.2.1.2}}
+\backcite {Rutan1990}{{8}{2.1.2}{subsection.2.1.2}}
+\backcite {Oisiovici2000, Kramer2016}{{8}{2.1.2}{subsection.2.1.2}}
+\backcite {pidni}{{8}{2.1.3}{subsection.2.1.3}}
+\backcite {Hong2018}{{8}{2.1.3}{subsection.2.1.3}}
+\backcite {Gargalo2020}{{8}{2.2.1}{subsection.2.2.1}}
+\backcite {capeopen}{{9}{2.2.1}{subsection.2.2.1}}
+\backcite {fmi, Blochwitz2011}{{9}{2.2.1}{subsection.2.2.1}}
+\backcite {fmidoc}{{9}{2.1}{figure.caption.11}}
+\backcite {Belaud2002}{{9}{2.2.1}{figure.caption.11}}
+\backcite {sysml}{{10}{2.2.2}{subsection.2.2.2}}
+\backcite {ptolemy}{{10}{2.2.2}{subsection.2.2.2}}
+\backcite {sysmlspec}{{11}{2.2}{figure.caption.13}}
+\backcite {IBMSYSML}{{11}{2.2.2}{figure.caption.13}}
+\backcite {Ebert2016}{{11}{2.2.2}{section*.14}}
+\backcite {Hugues2020}{{11}{2.2.2}{figure.caption.16}}
+\backcite {Hugues2020}{{12}{2.4}{figure.caption.16}}
+\backcite {Preuveneers2018, Borghesi2021, Hung2022}{{12}{2.2.2}{section*.17}}
+\backcite {Kubernetes}{{12}{2.2.2}{section*.17}}
+\backcite {Ptolemaeus2014}{{12}{2.2.2}{section*.18}}
+\backcite {Ptolemaeus2014}{{13}{2.5}{figure.caption.19}}
+\backcite {Tripakis2014}{{13}{2.2.2}{figure.caption.19}}
+\backcite {Mears2017}{{13}{2.2.3}{subsection.2.2.3}}
+\backcite {Lopez2020}{{13}{2.2.3}{subsection.2.2.3}}
+\backcite {Feidl2020}{{13}{2.2.3}{subsection.2.2.3}}
+\backcite {Eppinger2021}{{14}{2.2.3}{subsection.2.2.3}}
+\backcite {Liu2021}{{16}{3.1}{figure.caption.20}}
+\backcite {Tolksdorf2016}{{18}{3.3}{table.caption.24}}
+\backcite {Neema2014}{{18}{3.3}{table.caption.24}}
+\backcite {Krone2020}{{18}{3.3}{table.caption.24}}
+\backcite {Blochwitz2011}{{18}{3.3}{table.caption.24}}
+\backcite {Lee2004}{{18}{3.3}{table.caption.24}}
+\backcite {Ptolemaeus2014}{{18}{3.3}{table.caption.24}}
+\backcite {Ptolemaeus2014}{{19}{3.4}{figure.caption.25}}
+\backcite {Karolius2018}{{19}{3.3}{figure.caption.25}}
+\backcite {Blochwitz2011}{{19}{3.3}{figure.caption.25}}
+\backcite {Hugues2020}{{22}{3.5.1}{subsection.3.5.1}}
+\backcite {Thingsboard}{{23}{3.5.2}{subsection.3.5.2}}
+\backcite {Ptolemaeus2014}{{24}{3.5.3}{subsection.3.5.3}}
+\backcite {OMEdit}{{26}{4.1.1}{figure.caption.37}}
+\backcite {SSP}{{26}{4.1.1}{figure.caption.37}}
+\backcite {GitHubActions}{{26}{4.1.1}{figure.caption.38}}
+\backcite {Docker}{{26}{4.1.1}{figure.caption.38}}
+\backcite {Kafka}{{26}{4.1.1}{figure.caption.39}}
+\backcite {Udugama2021}{{47}{A}{appendix.1.A}}
+\backcite {Helgers2022}{{47}{A.1}{figure.caption.68}}
+\backcite {Kafka}{{51}{C}{appendix.1.C}}
+\backcite {Kafka}{{51}{C.1}{figure.caption.72}}
+\backcite {fmidoc}{{52}{D}{appendix.1.D}}

@@ -1,0 +1,56 @@
+\glsdefs@newdocentry{foobar}%
+{%
+name={Foobar},%
+sort={Foobar},%
+type={main},%
+first={Foobar},%
+firstplural={Foobars},%
+text={Foobar},%
+plural={Foobars},%
+description={A strange animal, not to be confused with \gls {foo}},%
+descriptionplural={A strange animal, not to be confused with \gls {foo}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{foo}%
+{%
+name={Foo},%
+sort={Foo},%
+type={main},%
+first={Foo},%
+firstplural={Foos},%
+text={Foo},%
+plural={Foos},%
+description={A strange animal, not to be confused with \gls {foobar}},%
+descriptionplural={A strange animal, not to be confused with \gls {foobar}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+

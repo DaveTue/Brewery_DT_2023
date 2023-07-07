@@ -1,0 +1,141 @@
+{
+  "ruleChain": {
+    "additionalInfo": {
+      "description": ""
+    },
+    "name": "S2-Chain",
+    "type": "CORE",
+    "firstRuleNodeId": null,
+    "root": false,
+    "debugMode": false,
+    "configuration": null,
+    "externalId": null
+  },
+  "metadata": {
+    "firstNodeIndex": 3,
+    "nodes": [
+      {
+        "additionalInfo": {
+          "description": "",
+          "layoutX": 460,
+          "layoutY": 334
+        },
+        "type": "org.thingsboard.rule.engine.action.TbCreateRelationNode",
+        "name": "Alarm to device",
+        "debugMode": true,
+        "configuration": {
+          "direction": "TO",
+          "entityType": "DEVICE",
+          "entityNamePattern": "ControlMod",
+          "entityTypePattern": "Models",
+          "relationType": "Triggers",
+          "createEntityIfNotExists": false,
+          "removeCurrentRelations": false,
+          "changeOriginatorToRelatedEntity": true,
+          "entityCacheExpiration": 300
+        },
+        "externalId": null
+      },
+      {
+        "additionalInfo": {
+          "description": "",
+          "layoutX": 1058,
+          "layoutY": 334
+        },
+        "type": "org.thingsboard.rule.engine.rpc.TbSendRPCRequestNode",
+        "name": "Start simulation",
+        "debugMode": true,
+        "configuration": {
+          "timeoutInSeconds": 2
+        },
+        "externalId": null
+      },
+      {
+        "additionalInfo": {
+          "description": "",
+          "layoutX": 759,
+          "layoutY": 334
+        },
+        "type": "org.thingsboard.rule.engine.transform.TbTransformMsgNode",
+        "name": "Generate command",
+        "debugMode": true,
+        "configuration": {
+          "jsScript": "var msgType = \"RPC_CALL_FROM_SERVER_TO_DEVICE\";\nvar msg = {\n    \"method\": \"start_model\",\n    \"params\": {\n        \"T\": msg.details.T,\n        \"Tamb\": msg.details.Tamb,\n        \"sg\": msg.details.sg\n    }\n}\nvar metadataNew = {}\nmetadataNew.deviceName = \"ControlMod\";\nmetadataNew.deviceType = \"Models\";\nreturn {\n    msg: msg,\n    metadata: metadataNew,\n    msgType: msgType\n};"
+        },
+        "externalId": null
+      },
+      {
+        "additionalInfo": {
+          "description": "",
+          "layoutX": 118,
+          "layoutY": 337
+        },
+        "type": "org.thingsboard.rule.engine.filter.TbJsSwitchNode",
+        "name": "Control signal ready",
+        "debugMode": true,
+        "configuration": {
+          "jsScript": "if (metadata.deviceName == 'ControlMod') {\r\n    return ['true'];\r\n}\r\nreturn ['false'];"
+        },
+        "externalId": null
+      },
+      {
+        "additionalInfo": {
+          "description": "",
+          "layoutX": 460,
+          "layoutY": 426
+        },
+        "type": "org.thingsboard.rule.engine.rest.TbRestApiCallNode",
+        "name": "Send control",
+        "debugMode": true,
+        "configuration": {
+          "restEndpointUrlPattern": "https://b3de-104-28-250-40.eu.ngrok.io/pump",
+          "requestMethod": "POST",
+          "useSimpleClientHttpFactory": false,
+          "ignoreRequestBody": false,
+          "enableProxy": false,
+          "useSystemProxyProperties": false,
+          "proxyScheme": null,
+          "proxyHost": null,
+          "proxyPort": 0,
+          "proxyUser": null,
+          "proxyPassword": null,
+          "readTimeoutMs": 0,
+          "maxParallelRequestsCount": 0,
+          "headers": {
+            "Content-Type": "application/json"
+          },
+          "useRedisQueueForMsgPersistence": false,
+          "trimQueue": false,
+          "maxQueueSize": 0,
+          "credentials": {
+            "type": "anonymous"
+          }
+        },
+        "externalId": null
+      }
+    ],
+    "connections": [
+      {
+        "fromIndex": 0,
+        "toIndex": 2,
+        "type": "Success"
+      },
+      {
+        "fromIndex": 2,
+        "toIndex": 1,
+        "type": "Success"
+      },
+      {
+        "fromIndex": 3,
+        "toIndex": 0,
+        "type": "false"
+      },
+      {
+        "fromIndex": 3,
+        "toIndex": 4,
+        "type": "true"
+      }
+    ],
+    "ruleChainConnections": null
+  }
+}

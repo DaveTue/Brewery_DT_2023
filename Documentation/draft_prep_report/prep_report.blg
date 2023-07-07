@@ -1,0 +1,94 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: prep_report.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: IEEEabrv.bib
+Database file #2: literature.bib
+Warning--entry type for "ibm" isn't style-file defined
+--line 300 of file literature.bib
+Warning--entry type for "pwc2014" isn't style-file defined
+--line 305 of file literature.bib
+Warning--entry type for "tensorflow" isn't style-file defined
+--line 360 of file literature.bib
+Warning--entry type for "pytorch" isn't style-file defined
+--line 364 of file literature.bib
+Warning--entry type for "pidni" isn't style-file defined
+--line 414 of file literature.bib
+Warning--entry type for "capeopen" isn't style-file defined
+--line 432 of file literature.bib
+Warning--entry type for "fmi" isn't style-file defined
+--line 436 of file literature.bib
+Warning--entry type for "fmidoc" isn't style-file defined
+--line 440 of file literature.bib
+Warning--entry type for "ptolemy" isn't style-file defined
+--line 444 of file literature.bib
+Warning--entry type for "sysml" isn't style-file defined
+--line 448 of file literature.bib
+Warning--entry type for "sysmlspec" isn't style-file defined
+--line 457 of file literature.bib
+Warning--entry type for "Kubernetes" isn't style-file defined
+--line 461 of file literature.bib
+Warning--entry type for "oma2020" isn't style-file defined
+--line 534 of file literature.bib
+Warning--entry type for "oma2019" isn't style-file defined
+--line 540 of file literature.bib
+Warning--entry type for "azureiot" isn't style-file defined
+--line 677 of file literature.bib
+Warning--entry type for "boeing" isn't style-file defined
+--line 696 of file literature.bib
+-- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in Tripakis2014
+
+Done.
+You've used 65 entries,
+            4024 wiz_defined-function locations,
+            1744 strings with 32438 characters,
+and the built_in function-call counts, 48233 in all, are:
+= -- 3798
+> -- 1349
+< -- 373
++ -- 776
+- -- 275
+* -- 2364
+:= -- 7203
+add.period$ -- 130
+call.type$ -- 65
+change.case$ -- 64
+chr.to.int$ -- 867
+cite$ -- 66
+duplicate$ -- 3479
+empty$ -- 3677
+format.name$ -- 297
+if$ -- 11042
+int.to.chr$ -- 0
+int.to.str$ -- 65
+missing$ -- 627
+newline$ -- 288
+num.names$ -- 55
+pop$ -- 1561
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 3623
+stack$ -- 0
+substring$ -- 2177
+swap$ -- 2916
+text.length$ -- 84
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 65
+warning$ -- 1
+while$ -- 181
+width$ -- 67
+write$ -- 690
+(There were 17 warnings)

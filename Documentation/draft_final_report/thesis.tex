@@ -1,0 +1,143 @@
+%
+% TU/e Style Master Thesis template for LaTeX
+%
+% Public version 1.0
+% 2010 - 2013 Thijs Nugteren and Joos Buijs
+%
+% THIS IS THE MAIN FILE (i.e. compile this file, compiling the others directly won't work)
+%
+\documentclass[a4paper,10pt,twoside]{report}
+
+%all the other includes etc. are done in the thesis.sty file.
+\usepackage{thesis}
+
+%
+% These commands need to be defined in order to produce a correct and personalized document
+%
+\newcommand{\shortdoctitle}{Master's Thesis}
+\newcommand{\doctitle}{Investigating frameworks for integration and orchestration---a case study on a microbrewery digital twin}
+\newcommand{\docsubtitle}{Master Thesis}
+
+\newcommand{\me}{Ander Lee \\
+				 1539302}
+\newcommand{\keywords}{keyword1, keyword2, keyword3}
+\newcommand{\version}{Version 5.1.5}
+\newcommand{\monthYear}{October 2022}
+
+%Be sure to use all the titles for your committee members!!! (their name s show up on the very first page!)
+\newcommand{\firstCommitteeMember}{dr.ir. Loek Cleophas}
+\newcommand{\secondCommitteeMember}{ir. David Manrique Negrin}
+\newcommand{\thirdCommitteeMember}{dr.ir. Ion Barosan}
+\newcommand{\fourthCommitteeMember}{dr.ir. Jeroen Keiren}
+
+\author{\me}
+
+%
+% PDF settings
+%
+\pdfstringdefDisableCommands{%
+  \def\\{}%
+  \def\texttt#1{<#1>}%
+}
+\hypersetup
+{
+    pdfauthor={\me},
+    pdftitle={\shortdoctitle},
+    pdfsubject={\doctitle},
+    pdfkeywords={\keywords}
+}
+
+\begin{document}
+
+%use this include for PDF and distribution versions
+\pagenumbering{roman}
+\include{titlepage}
+\normalsize
+
+\clearpage
+
+%Sometimes line numbers are nice, uncomment the next line to enable:
+%\linenumbers
+
+%It could be handy to have a list of todos and brainstorms in your thesis
+%\chapter*{*General todos*}\todo{remove this chapter}
+%\input{chapters/general_todos}
+
+%\chapter*{*Brainstorm results*}\todo{remove this chapter}
+%\input{chapters/brainstorm_results}
+
+\chapter*{Abstract}\label{ch:abstract}
+\input{chapters/abstract}
+
+\clearpage 
+
+%An executive summary if you want:
+%\chapter*{Executive summary}\label{chapter:executive_summary}
+%\input{chapters/executive_summary}
+
+%\clearpage
+
+\chapter*{Acknowledgement}\label{ch:acknowledgement}
+\input{chapters/acknowledgement}
+
+\clearpage 
+
+\tableofcontents
+\clearpage 
+
+\listoffigures
+\clearpage 
+
+\listoftables
+\clearpage
+
+% \lstlistoflistings
+% \clearpage
+
+\chapter{Introduction}\label{ch:introduction}
+\setcounter{page}{0}
+\pagenumbering{arabic} 
+\input{chapters/introduction}
+
+\clearpage
+
+\chapter{Background}\label{ch:background}
+\input{chapters/background}
+
+\clearpage
+
+\chapter{Methodology and Design}\label{ch:methodology}
+\input{chapters/methodology}
+
+\clearpage
+
+\chapter{Implementation}\label{ch:implementation}
+\input{chapters/implementation}
+
+\clearpage
+
+\chapter{Evaluation and Discussion}\label{ch:discussion}
+\input{chapters/discussion}
+
+\clearpage
+
+\chapter{Conclusion and Future work}\label{ch:conclusion}
+\input{chapters/conclusion}
+
+\clearpage
+
+
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,references}
+
+
+\clearpage
+
+%\addcontentsline{toc}{chapter}{Appendix}
+\renewcommand\chaptername{Appendix}
+\begin{appendices}
+\input{appendices/main}
+\end{appendices}
+
+
+\end{document}

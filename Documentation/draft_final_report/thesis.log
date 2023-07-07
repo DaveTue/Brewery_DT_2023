@@ -1,0 +1,1711 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.12)  20 OCT 2022 20:55
+entering extended mode
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (thesis.sty
+Package: thesis 
+
+(C:\Program Files\MiKTeX\tex/latex/a4wide\a4wide.sty
+Package: a4wide 1994/08/30
+
+(C:\Program Files\MiKTeX\tex/latex/ntgclass\a4.sty
+Package: a4 2020/02/18 v1.2g A4 based page layout
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen139
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks16
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks17
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/04/07 3.57 The Babel package
+
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/04/07 3.57 Babel common definitions
+\babel@savecnt=\count266
+\U@D=\dimen148
+\l@babelnohyphens=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count267
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/latex/babel-greek\greek.ldf
+Language: greek 2020/11/10 v1.10 Greek support for the babel system
+\bbl@monogreek=\count268
+\bbl@polygreek=\count269
+\bbl@ancientgreek=\count270
+
+(C:\Program Files\MiKTeX\tex/latex/greek-fontenc\lgrenc.def
+File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
+Now handling font encoding LGR ...
+... processing UTF-8 mapping file for font encoding LGR
+
+(C:\Program Files\MiKTeX\tex/latex/greek-inputenc\lgrenc.dfu
+File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+)
+(C:\Program Files\MiKTeX\tex/latex/greek-fontenc\greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))
+LaTeX Info: Redefining \& on input line 125.
+)
+(C:\Program Files\MiKTeX\tex/latex/babel-english\british.ldf
+Language: british 2017/06/06 v3.3r English support from the babel system
+
+(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+)))
+(C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(C:\Program Files\MiKTeX\tex/latex/grffile\grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+)
+(C:\Program Files\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:\Program Files\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:\Program Files\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Program Files\MiKTeX\tex/latex/paralist\paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip61
+\plpartopsep=\skip62
+\plitemsep=\skip63
+\plparsep=\skip64
+\pl@lab=\toks21
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(C:\Program Files\MiKTeX\tex/latex/moreverb\moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+
+(C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read3
+)
+\tab@position=\count271
+\tab@size=\count272
+\listing@line=\count273
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (C:\Program Files\MiKTeX\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count274
+)
+(C:\Program Files\MiKTeX\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count275
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Program Files\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Program Files\MiKTeX\tex/latex/fmtcount\fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count276
+))
+\c@padzeroesN=\count277
+\fc@tmpcatcode=\count278
+
+(C:\Program Files\MiKTeX\tex/latex/fmtcount\fc-english.def
+File: fc-english.def 2016/01/12
+)
+(C:\Program Files\MiKTeX\tex/latex/fmtcount\fc-british.def
+File: fc-british.def 2013/08/17
+)
+\@DT@modctr=\count279
+\@ordinalctr=\count280
+\@orgargctr=\count281
+\@strctr=\count282
+\@tmpstrctr=\count283
+\@DT@loopN=\count284
+\@DT@X=\count285
+)
+(C:\Program Files\MiKTeX\tex/latex/datetime\datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count286
+\@month=\count287
+\@year=\count288
+\c@HOUR=\count289
+\c@HOURXII=\count290
+\c@MINUTE=\count291
+\c@TOHOUR=\count292
+\c@TOMINUTE=\count293
+\c@SECOND=\count294
+\currenthour=\count295
+\currentminute=\count296
+\currentsecond=\count297
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count298
+\dayofyear=\count299
+\dayofweek=\count300
+LaTeX Info: Redefining \today on input line 736.
+
+(C:\Program Files\MiKTeX\tex/latex/datetime\dt-british.def
+File: dt-british.def 2013/09/10
+)
+(C:\Program Files\MiKTeX\tex/latex/datetime\dt-greek.def
+File: dt-greek.def 2013/09/10
+LaTeX Info: Redefining \dategreek on input line 64.
+)
+\dt@a=\toks26
+\dt@b=\toks27
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen151
+\ar@mcellbox=\box49
+\extrarowheight=\dimen152
+\NC@list=\toks28
+\extratabsurround=\skip65
+\backup@length=\skip66
+\ar@cellbox=\box50
+)
+Package color Info: Redefining color black on input line 32.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen153
+\Hy@linkcounter=\count301
+\Hy@pagecounter=\count302
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+)
+(C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count303
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc-greekbasic.def
+File: puenc-greekbasic.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (
+greek block) (HO)
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing ON on input line 4210.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\backref.sty
+Package: backref 2021/02/04 v1.41 Bibliographical back referencing
+
+(C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+))
+\c@Hy@tempcnt=\count304
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen154
+
+(C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count305
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing ON on input line 6088.
+Package hyperref Info: Link coloring ON on input line 6093.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count306
+\c@Item=\count307
+\c@Hfootnote=\count308
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+\Fld@listcount=\count309
+\c@bookmark@seq@number=\count310
+\Hy@SectionHShift=\skip67
+)
+(C:\Program Files\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count311
+\output=\toks29
+\linenoprevgraf=\count312
+\linenumbersep=\dimen157
+\linenumberwidth=\dimen158
+\c@linenumber=\count313
+\c@pagewiselinenumber=\count314
+\c@LN@truepage=\count315
+\c@internallinenumber=\count316
+\c@internallinenumbers=\count317
+\quotelinenumbersep=\dimen159
+\bframerule=\dimen160
+\bframesep=\dimen161
+\bframebox=\box51
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip68
+\LTright=\skip69
+\LTpre=\skip70
+\LTpost=\skip71
+\LTchunksize=\count318
+\LTcapwidth=\dimen162
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count319
+\LT@rows=\count320
+\c@LT@tables=\count321
+\c@LT@chunks=\count322
+\LT@p@ftn=\toks30
+)
+(C:\Program Files\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\Program Files\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen163
+\captionmargin@=\dimen164
+\captionwidth=\dimen165
+\caption@tempdima=\dimen166
+\caption@indent=\dimen167
+\caption@parindent=\dimen168
+\caption@hangindent=\dimen169
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count323
+\c@continuedfloat=\count324
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Program Files\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+))
+\c@KVtest=\count325
+\sf@farskip=\skip72
+\sf@captopadj=\dimen170
+\sf@capskip=\skip73
+\sf@nearskip=\skip74
+\c@subfigure=\count326
+\c@subfigure@save=\count327
+\c@lofdepth=\count328
+\c@subtable=\count329
+\c@subtable@save=\count330
+\c@lotdepth=\count331
+\sf@top=\skip75
+\sf@bottom=\skip76
+)
+(C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen171
+\lightrulewidth=\dimen172
+\cmidrulewidth=\dimen173
+\belowrulesep=\dimen174
+\belowbottomsep=\dimen175
+\aboverulesep=\dimen176
+\abovetopsep=\dimen177
+\cmidrulesep=\dimen178
+\cmidrulekern=\dimen179
+\defaultaddspace=\dimen180
+\@cmidla=\count332
+\@cmidlb=\count333
+\@aboverulesep=\dimen181
+\@belowrulesep=\dimen182
+\@thisruleclass=\count334
+\@lastruleclass=\count335
+\@thisrulewidth=\dimen183
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count336
+\rotFPtop=\skip77
+\rotFPbot=\skip78
+\rot@float@box=\box57
+\rot@mess@toks=\toks31
+)
+(C:\Program Files\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2020/09/26 v1.10
+
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX3 on input line 61.
+\TP@textbox=\box58
+\TP@holdbox=\box59
+\TPHorizModule=\dimen184
+\TPVertModule=\dimen185
+\TP@margin=\dimen186
+\TP@absmargin=\dimen187
+Grid set 16 x 16 = 37.34424pt x 52.81541pt
+\TPboxrulesize=\dimen188
+\TP@ox=\dimen189
+\TP@oy=\dimen190
+\TP@tbargs=\toks32
+TextBlockOrigin set to 0pt x 0pt
+) (C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count337
+\lst@gtempboxa=\box60
+\lst@token=\toks33
+\lst@length=\count338
+\lst@currlwidth=\dimen191
+\lst@column=\count339
+\lst@pos=\count340
+\lst@lostspace=\dimen192
+\lst@width=\dimen193
+\lst@newlines=\count341
+\lst@lineno=\count342
+\lst@maxwidth=\dimen194
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count343
+\lst@skipnumbers=\count344
+\lst@framebox=\box61
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+(C:\Program Files\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count345
+\c@@ppsavesec=\count346
+\c@@ppsaveapp=\count347
+)
+(C:\Program Files\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen195
+\TX@old@table=\dimen196
+\TX@old@col=\dimen197
+\TX@target=\dimen198
+\TX@delta=\dimen199
+\TX@cols=\count348
+\TX@ftn=\toks34
+)
+(C:\Program Files\MiKTeX\tex/latex/psnfss\courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+))
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count349
+\l__pdf_internal_box=\box62
+) (thesis.aux
+(titlepage.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 5
+0.
+ (C:\Program Files\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+
+(C:\Program Files\MiKTeX\tex/latex/greek-fontenc\puenc-greek.def
+File: puenc-greek.def 2020/10/18 2.0 Greek LICRs for PDF strings
+
+(C:\Program Files\MiKTeX\tex/latex/greek-fontenc\greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count350
+\scratchdimen=\dimen256
+\scratchbox=\box63
+\nofMPsegments=\count351
+\nofMParguments=\count352
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count353
+\MPscratchDim=\dimen257
+\MPnumerator=\count354
+\makeMPintoPDFobject=\count355
+\everyMPtoPDFconversion=\toks36
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring ON on input line 50.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count356
+)
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
+
+(thesis.out) (thesis.out)
+\@outlinefile=\write3
+\openout3 = `thesis.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count357
+\openout2 = `titlepage.aux'.
+
+ (titlepage.tex
+<figures/tue-logo-high2.png, id=211, 1177.39874pt x 321.2pt>
+File: figures/tue-logo-high2.png Graphic file (type png)
+<use figures/tue-logo-high2.png>
+Package pdftex.def Info: figures/tue-logo-high2.png  used on input line 3.
+(pdftex.def)             Requested size: 208.58102pt x 56.9055pt.
+\backupparindent=\skip79
+ [1{C:/Users/andyl/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+ <./figures/tue-logo-high2.png>])
+(chapters/abstract.tex) [2
+
+
+
+
+] (chapters/acknowledgement.tex) [3
+
+
+] (thesis.toc
+[4
+
+
+])
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+ [5] (thesis.lof
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
+0.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+[6
+
+
+])
+\tf@lof=\write5
+\openout5 = `thesis.lof'.
+
+ [7] (thesis.lot)
+\tf@lot=\write6
+\openout6 = `thesis.lot'.
+
+ [8
+
+
+]
+Chapter 1.
+(chapters/introduction.tex [1
+
+
+] [2]
+
+pdfTeX warning: pdflatex (file ./figures/dt.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<figures/dt.pdf, id=461, 632.99689pt x 403.0461pt>
+File: figures/dt.pdf Graphic file (type pdf)
+<use figures/dt.pdf>
+Package pdftex.def Info: figures/dt.pdf  used on input line 32.
+(pdftex.def)             Requested size: 316.49767pt x 201.52255pt.
+[3 <./figures/dt.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/tao5d.pdf): PDF inclusion: found PDF v
+ersion <1.6>, but at most version <1.5> allowed
+<figures/tao5d.pdf, id=483, 381.41093pt x 253.0474pt>
+File: figures/tao5d.pdf Graphic file (type pdf)
+<use figures/tao5d.pdf>
+Package pdftex.def Info: figures/tao5d.pdf  used on input line 58.
+(pdftex.def)             Requested size: 190.705pt x 126.52338pt.
+[4 <./figures/tao5d.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/intorc.pdf): PDF inclusion: found PDF 
+version <1.6>, but at most version <1.5> allowed
+<figures/intorc.pdf, id=509, 638.68243pt x 300.70543pt>
+File: figures/intorc.pdf Graphic file (type pdf)
+<use figures/intorc.pdf>
+Package pdftex.def Info: figures/intorc.pdf  used on input line 104.
+(pdftex.def)             Requested size: 319.34042pt x 150.35234pt.
+[5 <./figures/intorc.pdf>]) [6]
+Chapter 2.
+(chapters/background.tex [7
+
+
+] [8]
+
+pdfTeX warning: pdflatex (file ./figures/fmi_me.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<figures/fmi_me.pdf, id=581, 269.25876pt x 228.6432pt>
+File: figures/fmi_me.pdf Graphic file (type pdf)
+<use figures/fmi_me.pdf>
+Package pdftex.def Info: figures/fmi_me.pdf  used on input line 50.
+(pdftex.def)             Requested size: 161.55649pt x 137.18697pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/fmi_cs.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<figures/fmi_cs.pdf, id=582, 255.85869pt x 301.61383pt>
+File: figures/fmi_cs.pdf Graphic file (type pdf)
+<use figures/fmi_cs.pdf>
+Package pdftex.def Info: figures/fmi_cs.pdf  used on input line 51.
+(pdftex.def)             Requested size: 153.51639pt x 180.96968pt.
+[9 <./figures/fmi_me.pdf> <./figures/fmi_cs.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/sysml_tax.pdf): PDF inclusion: found P
+DF version <1.6>, but at most version <1.5> allowed
+<figures/sysml_tax.pdf, id=601, 520.30898pt x 226.64676pt>
+File: figures/sysml_tax.pdf Graphic file (type pdf)
+<use figures/sysml_tax.pdf>
+Package pdftex.def Info: figures/sysml_tax.pdf  used on input line 93.
+(pdftex.def)             Requested size: 390.23077pt x 169.98463pt.
+[10]
+
+pdfTeX warning: pdflatex (file ./figures/devops.pdf): PDF inclusion: found PDF 
+version <1.6>, but at most version <1.5> allowed
+<figures/devops.pdf, id=614, 377.6198pt x 254.43227pt>
+File: figures/devops.pdf Graphic file (type pdf)
+<use figures/devops.pdf>
+Package pdftex.def Info: figures/devops.pdf  used on input line 109.
+(pdftex.def)             Requested size: 151.04523pt x 101.7711pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/twinopsloop.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<figures/twinopsloop.pdf, id=615, 250.12778pt x 128.35052pt>
+File: figures/twinopsloop.pdf Graphic file (type pdf)
+<use figures/twinopsloop.pdf>
+Package pdftex.def Info: figures/twinopsloop.pdf  used on input line 116.
+(pdftex.def)             Requested size: 225.1129pt x 115.51439pt.
+[11 <./figures/sysml_tax.pdf> <./figures/devops.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/moc.pdf): PDF inclusion: found PDF ver
+sion <1.6>, but at most version <1.5> allowed
+<figures/moc.pdf, id=668, 403.83533pt x 223.81718pt>
+File: figures/moc.pdf Graphic file (type pdf)
+<use figures/moc.pdf>
+Package pdftex.def Info: figures/moc.pdf  used on input line 139.
+(pdftex.def)             Requested size: 323.0687pt x 179.05397pt.
+[12 <./figures/twinopsloop.pdf>] [13 <./figures/moc.pdf>]) [14]
+Chapter 3.
+(chapters/methodology.tex
+
+pdfTeX warning: pdflatex (file ./figures/brewery5d.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/brewery5d.pdf, id=772, 906.66629pt x 535.29686pt>
+File: figures/brewery5d.pdf Graphic file (type pdf)
+<use figures/brewery5d.pdf>
+Package pdftex.def Info: figures/brewery5d.pdf  used on input line 17.
+(pdftex.def)             Requested size: 407.99606pt x 240.88135pt.
+[15
+
+
+ <./figures/brewery5d.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/lifecycle.pdf): PDF inclusion: found P
+DF version <1.6>, but at most version <1.5> allowed
+<figures/lifecycle.pdf, id=797, 670.26944pt x 190.78377pt>
+File: figures/lifecycle.pdf Graphic file (type pdf)
+<use figures/lifecycle.pdf>
+Package pdftex.def Info: figures/lifecycle.pdf  used on input line 43.
+(pdftex.def)             Requested size: 335.1339pt x 95.39163pt.
+[16 <./figures/lifecycle.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/systemcontext.pdf): PDF inclusion: fou
+nd PDF version <1.6>, but at most version <1.5> allowed
+<figures/systemcontext.pdf, id=822, 556.4819pt x 329.8152pt>
+File: figures/systemcontext.pdf Graphic file (type pdf)
+<use figures/systemcontext.pdf>
+Package pdftex.def Info: figures/systemcontext.pdf  used on input line 74.
+(pdftex.def)             Requested size: 417.3604pt x 247.3608pt.
+[17 <./figures/systemcontext.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/o2ont.pdf): PDF inclusion: found PDF v
+ersion <1.6>, but at most version <1.5> allowed
+<figures/o2ont.pdf, id=926, 286.59853pt x 154.8425pt>
+File: figures/o2ont.pdf Graphic file (type pdf)
+<use figures/o2ont.pdf>
+Package pdftex.def Info: figures/o2ont.pdf  used on input line 115.
+(pdftex.def)             Requested size: 257.93628pt x 139.35693pt.
+[18]
+Underfull \hbox (badness 3312) in paragraph at lines 169--169
+[]|\OT1/cmr/m/n/10 Level of auto-
+ []
+
+[19 <./figures/o2ont.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/usecase1.pdf): PDF inclusion: found PD
+F version <1.6>, but at most version <1.5> allowed
+<figures/usecase1.pdf, id=970, 544.65593pt x 271.99919pt>
+File: figures/usecase1.pdf Graphic file (type pdf)
+<use figures/usecase1.pdf>
+Package pdftex.def Info: figures/usecase1.pdf  used on input line 219.
+(pdftex.def)             Requested size: 435.72534pt x 217.59964pt.
+
+Overfull \hbox (11.1391pt too wide) in paragraph at lines 219--220
+ [][] 
+ []
+
+[20]
+
+pdfTeX warning: pdflatex (file ./figures/usecase2.pdf): PDF inclusion: found PD
+F version <1.6>, but at most version <1.5> allowed
+<figures/usecase2.pdf, id=977, 553.85368pt x 264.11472pt>
+File: figures/usecase2.pdf Graphic file (type pdf)
+<use figures/usecase2.pdf>
+Package pdftex.def Info: figures/usecase2.pdf  used on input line 239.
+(pdftex.def)             Requested size: 415.38924pt x 198.08554pt.
+[21 <./figures/usecase1.pdf> <./figures/usecase2.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/twinops_workflow.pdf): PDF inclusion: 
+found PDF version <1.6>, but at most version <1.5> allowed
+<figures/twinops_workflow.pdf, id=1140, 581.19514pt x 198.36409pt>
+File: figures/twinops_workflow.pdf Graphic file (type pdf)
+<use figures/twinops_workflow.pdf>
+Package pdftex.def Info: figures/twinops_workflow.pdf  used on input line 263.
+(pdftex.def)             Requested size: 348.71977pt x 119.01935pt.
+[22 <./figures/twinops_workflow.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/thingsboard_workflow.pdf): PDF inclusi
+on: found PDF version <1.6>, but at most version <1.5> allowed
+<figures/thingsboard_workflow.pdf, id=1155, 588.77504pt x 171.83197pt>
+File: figures/thingsboard_workflow.pdf Graphic file (type pdf)
+<use figures/thingsboard_workflow.pdf>
+Package pdftex.def Info: figures/thingsboard_workflow.pdf  used on input line 2
+84.
+(pdftex.def)             Requested size: 353.26775pt x 103.09996pt.
+[23 <./figures/thingsboard_workflow.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/pt2meta.pdf): PDF inclusion: found PDF
+ version <1.6>, but at most version <1.5> allowed
+<figures/pt2meta.pdf, id=1180, 409.96623pt x 345.31711pt>
+File: figures/pt2meta.pdf Graphic file (type pdf)
+<use figures/pt2meta.pdf>
+Package pdftex.def Info: figures/pt2meta.pdf  used on input line 317.
+(pdftex.def)             Requested size: 327.97342pt x 276.25404pt.
+) [24 <./figures/pt2meta.pdf>]
+Chapter 4.
+(chapters/implementation.tex
+
+pdfTeX warning: pdflatex (file ./figures/s1_twop_workflow.pdf): PDF inclusion: 
+found PDF version <1.6>, but at most version <1.5> allowed
+<figures/s1_twop_workflow.pdf, id=1239, 608.35962pt x 255.2205pt>
+File: figures/s1_twop_workflow.pdf Graphic file (type pdf)
+<use figures/s1_twop_workflow.pdf>
+Package pdftex.def Info: figures/s1_twop_workflow.pdf  used on input line 13.
+(pdftex.def)             Requested size: 365.01859pt x 153.13347pt.
+[25
+
+
+ <./figures/s1_twop_workflow.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/s1_twop_omedit.pdf): PDF inclusion: fo
+und PDF version <1.6>, but at most version <1.5> allowed
+<figures/s1_twop_omedit.pdf, id=1271, 327.79765pt x 163.00497pt>
+File: figures/s1_twop_omedit.pdf Graphic file (type pdf)
+<use figures/s1_twop_omedit.pdf>
+Package pdftex.def Info: figures/s1_twop_omedit.pdf  used on input line 22.
+(pdftex.def)             Requested size: 196.6801pt x 97.80373pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/s1_twop_cicd.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<figures/s1_twop_cicd.pdf, id=1275, 572.98215pt x 252.69305pt>
+File: figures/s1_twop_cicd.pdf Graphic file (type pdf)
+<use figures/s1_twop_cicd.pdf>
+Package pdftex.def Info: figures/s1_twop_cicd.pdf  used on input line 33.
+(pdftex.def)             Requested size: 372.43398pt x 164.24854pt.
+[26 <./figures/s1_twop_omedit.pdf> <./figures/s1_twop_cicd.pdf
+
+pdfTeX warning: pdflatex (file ./figures/s1_twop_cicd.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>]
+
+pdfTeX warning: pdflatex (file ./figures/s1_tb_entity.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<figures/s1_tb_entity.pdf, id=1307, 658.13518pt x 342.24864pt>
+File: figures/s1_tb_entity.pdf Graphic file (type pdf)
+<use figures/s1_tb_entity.pdf>
+Package pdftex.def Info: figures/s1_tb_entity.pdf  used on input line 49.
+(pdftex.def)             Requested size: 394.88414pt x 205.35077pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/s1_tb_rulechain.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<figures/s1_tb_rulechain.pdf, id=1308, 696.80197pt x 360.71965pt>
+File: figures/s1_tb_rulechain.pdf Graphic file (type pdf)
+<use figures/s1_tb_rulechain.pdf>
+Package pdftex.def Info: figures/s1_tb_rulechain.pdf  used on input line 56.
+(pdftex.def)             Requested size: 418.0844pt x 216.43346pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/s1_tb_dashboard.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<figures/s1_tb_dashboard.pdf, id=1310, 722.7pt x 275.22725pt>
+File: figures/s1_tb_dashboard.pdf Graphic file (type pdf)
+<use figures/s1_tb_dashboard.pdf>
+Package pdftex.def Info: figures/s1_tb_dashboard.pdf  used on input line 70.
+(pdftex.def)             Requested size: 361.3491pt x 137.61328pt.
+[27 <./figures/s1_tb_entity.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/s1_pt_de.pdf): PDF inclusion: found PD
+F version <1.6>, but at most version <1.5> allowed
+<figures/s1_pt_de.pdf, id=1325, 345.54115pt x 116.18306pt>
+File: figures/s1_pt_de.pdf Graphic file (type pdf)
+<use figures/s1_pt_de.pdf>
+Package pdftex.def Info: figures/s1_pt_de.pdf  used on input line 81.
+(pdftex.def)             Requested size: 380.09644pt x 127.80174pt.
+[28 <./figures/s1_tb_rulechain.pdf> <./figures/s1_tb_dashboard.pdf
+
+pdfTeX warning: pdflatex (file ./figures/s1_tb_dashboard.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>]
+
+pdfTeX warning: pdflatex (file ./figures/s1_pt_proxy.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
+<figures/s1_pt_proxy.pdf, id=1345, 597.61917pt x 303.86424pt>
+File: figures/s1_pt_proxy.pdf Graphic file (type pdf)
+<use figures/s1_pt_proxy.pdf>
+Package pdftex.def Info: figures/s1_pt_proxy.pdf  used on input line 94.
+(pdftex.def)             Requested size: 268.92613pt x 136.73764pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/s2_twop_omedit.pdf): PDF inclusion: fo
+und PDF version <1.6>, but at most version <1.5> allowed
+<figures/s2_twop_omedit.pdf, id=1348, 485.1716pt x 255.2205pt>
+File: figures/s2_twop_omedit.pdf Graphic file (type pdf)
+<use figures/s2_twop_omedit.pdf>
+Package pdftex.def Info: figures/s2_twop_omedit.pdf  used on input line 109.
+(pdftex.def)             Requested size: 194.0652pt x 102.08638pt.
+
+Underfull \vbox (badness 1484) has occurred while \output is active []
+
+ [29 <./figures/s1_pt_de.pdf> <./figures/s1_pt_proxy.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/s2_tb_rulechain.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<figures/s2_tb_rulechain.pdf, id=1369, 721.43655pt x 117.50198pt>
+File: figures/s2_tb_rulechain.pdf Graphic file (type pdf)
+<use figures/s2_tb_rulechain.pdf>
+Package pdftex.def Info: figures/s2_tb_rulechain.pdf  used on input line 121.
+(pdftex.def)             Requested size: 396.79134pt x 64.62628pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/s2_tb_rulechain_root.pdf): PDF inclusi
+on: found PDF version <1.6>, but at most version <1.5> allowed
+<figures/s2_tb_rulechain_root.pdf, id=1371, 683.80481pt x 324.11792pt>
+File: figures/s2_tb_rulechain_root.pdf Graphic file (type pdf)
+<use figures/s2_tb_rulechain_root.pdf>
+Package pdftex.def Info: figures/s2_tb_rulechain_root.pdf  used on input line 1
+30.
+(pdftex.def)             Requested size: 341.90157pt x 162.05856pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/s2_tb_dashboard.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<figures/s2_tb_dashboard.pdf, id=1373, 646.26343pt x 336.0826pt>
+File: figures/s2_tb_dashboard.pdf Graphic file (type pdf)
+<use figures/s2_tb_dashboard.pdf>
+Package pdftex.def Info: figures/s2_tb_dashboard.pdf  used on input line 139.
+(pdftex.def)             Requested size: 284.35678pt x 147.87679pt.
+[30 <./figures/s2_twop_omedit.pdf> <./figures/s2_tb_rulechain.pdf
+
+pdfTeX warning: pdflatex (file ./figures/s2_tb_rulechain.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+> <./figures/s2_tb_rulechain_root.pdf
+
+pdfTeX warning: pdflatex (file ./figures/s2_tb_rulechain_root.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+>]
+
+pdfTeX warning: pdflatex (file ./figures/s2_pt_composite.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<figures/s2_pt_composite.pdf, id=1399, 344.03752pt x 123.70316pt>
+File: figures/s2_pt_composite.pdf Graphic file (type pdf)
+<use figures/s2_pt_composite.pdf>
+Package pdftex.def Info: figures/s2_pt_composite.pdf  used on input line 151.
+(pdftex.def)             Requested size: 378.44243pt x 136.07387pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/s2_pt_internal.pdf): PDF inclusion: fo
+und PDF version <1.6>, but at most version <1.5> allowed
+<figures/s2_pt_internal.pdf, id=1401, 131.22285pt x 42.48773pt>
+File: figures/s2_pt_internal.pdf Graphic file (type pdf)
+<use figures/s2_pt_internal.pdf>
+Package pdftex.def Info: figures/s2_pt_internal.pdf  used on input line 160.
+(pdftex.def)             Requested size: 275.56808pt x 89.22423pt.
+) [31 <./figures/s2_tb_dashboard.pdf> <./figures/s2_pt_composite.pdf> <./figure
+s/s2_pt_internal.pdf>]
+Chapter 5.
+(chapters/discussion.tex [32
+
+
+]
+<figures/s1kpi2.pdf, id=1424, 453.63698pt x 306.06303pt>
+File: figures/s1kpi2.pdf Graphic file (type pdf)
+<use figures/s1kpi2.pdf>
+Package pdftex.def Info: figures/s1kpi2.pdf  used on input line 35.
+(pdftex.def)             Requested size: 226.81793pt x 153.03113pt.
+ [33 <./figures/s1kpi2.pdf>]
+Underfull \hbox (badness 2698) in paragraph at lines 68--68
+[]|\OT1/cmr/m/n/10 Define the ex-e-cu-tion
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 83--83
+[]|\OT1/cmr/m/n/10 Set para-met-ers to Things-
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 83--83
+\OT1/cmr/m/n/10 Board back-ground pro-cesses
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 83--83
+\OT1/cmr/m/n/10 such as memory al-loc-a-tion,
+ []
+
+[34] [35]
+<figures/s2kpi2.pdf, id=1490, 462.52798pt x 308.0852pt>
+File: figures/s2kpi2.pdf Graphic file (type pdf)
+<use figures/s2kpi2.pdf>
+Package pdftex.def Info: figures/s2kpi2.pdf  used on input line 113.
+(pdftex.def)             Requested size: 231.26341pt x 154.04222pt.
+
+Underfull \vbox (badness 4391) has occurred while \output is active []
+
+ [36 <./figures/s2kpi2.pdf>]
+Underfull \hbox (badness 1147) in paragraph at lines 135--135
+[]|\OT1/cmr/m/n/10 simple (but in-ef-fi-
+ []
+
+) [37]
+Chapter 6.
+(chapters/conclusion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+[38
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+[39] [40
+
+] [41]) (thesis.bbl (thesis.brf)
+\tf@brf=\write7
+\openout7 = `thesis.brf'.
+
+ [42
+
+
+] [43] [44] [45]) [46]
+(appendices/main.tex
+Appendix A.
+
+
+pdfTeX warning: pdflatex (file ./figures/fivestep.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<figures/fivestep.pdf, id=1736, 522.68045pt x 292.17458pt>
+File: figures/fivestep.pdf Graphic file (type pdf)
+<use figures/fivestep.pdf>
+Package pdftex.def Info: figures/fivestep.pdf  used on input line 6.
+(pdftex.def)             Requested size: 418.14493pt x 233.73997pt.
+[47
+
+
+ <./figures/fivestep.pdf>] [48]
+Appendix B.
+
+
+pdfTeX warning: pdflatex (file ./figures/workbench_fermenter.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+<figures/workbench_fermenter.pdf, id=1807, 696.80173pt x 373.35387pt>
+File: figures/workbench_fermenter.pdf Graphic file (type pdf)
+<use figures/workbench_fermenter.pdf>
+Package pdftex.def Info: figures/workbench_fermenter.pdf  used on input line 26
+.
+(pdftex.def)             Requested size: 452.91576pt x 242.67714pt.
+
+Overfull \hbox (28.32951pt too wide) in paragraph at lines 26--27
+ [][] 
+ []
+
+[49
+
+ <./figures/workbench_fermenter.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/workbench_other.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<figures/workbench_other.pdf, id=1822, 375.88127pt x 370.19603pt>
+File: figures/workbench_other.pdf Graphic file (type pdf)
+<use figures/workbench_other.pdf>
+Package pdftex.def Info: figures/workbench_other.pdf  used on input line 36.
+(pdftex.def)             Requested size: 244.31993pt x 240.62456pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/workbench_map.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<figures/workbench_map.pdf, id=1824, 486.17876pt x 289.08pt>
+File: figures/workbench_map.pdf Graphic file (type pdf)
+<use figures/workbench_map.pdf>
+Package pdftex.def Info: figures/workbench_map.pdf  used on input line 45.
+(pdftex.def)             Requested size: 316.01244pt x 187.89977pt.
+[50 <./figures/workbench_other.pdf> <./figures/workbench_map.pdf>]
+Appendix C.
+
+
+pdfTeX warning: pdflatex (file ./figures/kafka_example.pdf): PDF inclusion: fou
+nd PDF version <1.6>, but at most version <1.5> allowed
+<figures/kafka_example.pdf, id=1858, 581.19466pt x 294.38782pt>
+File: figures/kafka_example.pdf Graphic file (type pdf)
+<use figures/kafka_example.pdf>
+Package pdftex.def Info: figures/kafka_example.pdf  used on input line 57.
+(pdftex.def)             Requested size: 232.47374pt x 117.75304pt.
+[51
+
+ <./figures/kafka_example.pdf>]
+Appendix D.
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 78.
+
+
+pdfTeX warning: pdflatex (file ./figures/fmi_error.pdf): PDF inclusion: found P
+DF version <1.6>, but at most version <1.5> allowed
+<figures/fmi_error.pdf, id=1875, 392.63788pt x 198.06598pt>
+File: figures/fmi_error.pdf Graphic file (type pdf)
+<use figures/fmi_error.pdf>
+Package pdftex.def Info: figures/fmi_error.pdf  used on input line 90.
+(pdftex.def)             Requested size: 314.11072pt x 158.45297pt.
+[52
+
+ <./figures/fmi_error.pdf>]
+Appendix E.
+
+
+pdfTeX warning: pdflatex (file ./figures/hmi_client.pdf): PDF inclusion: found 
+PDF version <1.6>, but at most version <1.5> allowed
+<figures/hmi_client.pdf, id=1903, 343.66292pt x 188.8877pt>
+File: figures/hmi_client.pdf Graphic file (type pdf)
+<use figures/hmi_client.pdf>
+Package pdftex.def Info: figures/hmi_client.pdf  used on input line 104.
+(pdftex.def)             Requested size: 171.83102pt x 94.4436pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/hmi_scheme.pdf): PDF inclusion: found 
+PDF version <1.7>, but at most version <1.5> allowed
+<figures/hmi_scheme.pdf, id=1904, 438.13326pt x 266.81181pt>
+File: figures/hmi_scheme.pdf Graphic file (type pdf)
+<use figures/hmi_scheme.pdf>
+Package pdftex.def Info: figures/hmi_scheme.pdf  used on input line 111.
+(pdftex.def)             Requested size: 262.88197pt x 160.08832pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/workbench_bucket.pdf): PDF inclusion: 
+found PDF version <1.6>, but at most version <1.5> allowed
+<figures/workbench_bucket.pdf, id=1906, 394.20174pt x 283.01636pt>
+File: figures/workbench_bucket.pdf Graphic file (type pdf)
+<use figures/workbench_bucket.pdf>
+Package pdftex.def Info: figures/workbench_bucket.pdf  used on input line 120.
+(pdftex.def)             Requested size: 256.22807pt x 183.95844pt.
+[53
+
+ <./figures/hmi_client.pdf> <./figures/hmi_scheme.pdf>]) [54 <./figures/workben
+ch_bucket.pdf>] (thesis.aux (titlepage.aux))
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: F0237CAC0A197307257AFD809D24DCB2;7771.
+Package rerunfilecheck Info: File `thesis.brf' has not changed.
+(rerunfilecheck)             Checksum: FBA096244296B0EC1ABF353E1364B79D;4054.
+ ) 
+Here is how much of TeX's memory you used:
+ 18004 strings out of 479299
+ 272725 string characters out of 2865809
+ 801439 words of memory out of 3000000
+ 34787 multiletter control sequences out of 15000+600000
+ 412827 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 113i,12n,147p,1464b,1462s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\andyl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk>{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:
+/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Pro
+gram Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/
+fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/pa
+latino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
+<C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb><C:/Program Files
+/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/u
+rw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+
+Output written on thesis.pdf (62 pages, 3939359 bytes).
+PDF statistics:
+ 2055 PDF objects out of 2073 (max. 8388607)
+ 276 named destinations out of 1000 (max. 500000)
+ 637 words of extra memory for PDF output out of 10000 (max. 10000000)
+

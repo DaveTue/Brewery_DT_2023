@@ -1,0 +1,68 @@
+\babel@toc {british}{}
+\contentsline {chapter}{Contents}{{\fontencoding {OT1}\selectfont iv}}{chapter*.3}%
+\contentsline {chapter}{List of Figures}{{\fontencoding {OT1}\selectfont vi}}{chapter*.4}%
+\contentsline {chapter}{List of Tables}{{\fontencoding {OT1}\selectfont viii}}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Context}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Domain overview}{2}{section.1.2}%
+\contentsline {subsubsection}{Classification}{2}{section*.6}%
+\contentsline {subsubsection}{Dimension}{4}{section*.8}%
+\contentsline {section}{\numberline {1.3}Challenges}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Problem definition}{5}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Project Scope}{6}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Research questions}{6}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Report structure}{6}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Background}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}State of the art}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Monitoring}{7}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Modelling}{8}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Controlling}{8}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Related work}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Integration}{8}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Orchestration}{10}{subsection.2.2.2}%
+\contentsline {subsubsection}{General-purpose modeling language}{10}{section*.12}%
+\contentsline {subsubsection}{DevOps}{11}{section*.14}%
+\contentsline {subsubsection}{SOA}{12}{section*.17}%
+\contentsline {subsubsection}{Actor-orientated model}{12}{section*.18}%
+\contentsline {subsection}{\numberline {2.2.3}DT in bioprocessing}{13}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Summary}{14}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Methodology and Design}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Architecture of the microbrewery DT}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}System context description}{17}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Requirements identification}{18}{section.3.3}%
+\contentsline {subsubsection}{Derivation rationale}{18}{section*.23}%
+\contentsline {subsubsection}{Production Prediction (S1) Requirements}{19}{section*.26}%
+\contentsline {subsubsection}{Production Control (S2) Requirements}{20}{section*.29}%
+\contentsline {section}{\numberline {3.4}Use case description}{20}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Selected frameworks}{22}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}TwinOps}{22}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}ThingsBoard}{23}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Ptolemy II}{23}{subsection.3.5.3}%
+\contentsline {chapter}{\numberline {4}Implementation}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Production Prediction (S1) demonstrations}{25}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}S1 in TwinOps}{25}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}S1 in ThingsBoard}{27}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}S1 in Ptolemy II}{28}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Production Control (S2) demonstrations}{29}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}S2 in TwinOps}{29}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}S2 in ThingsBoard}{30}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}S2 in Ptolemy II}{31}{subsection.4.2.3}%
+\contentsline {chapter}{\numberline {5}Evaluation and Discussion}{32}{chapter.5}%
+\contentsline {section}{\numberline {5.1}S1 KPIs evaluation}{32}{section.5.1}%
+\contentsline {subsubsection}{KPI1: level of automation}{32}{section*.51}%
+\contentsline {subsubsection}{KPI2: updating delay}{33}{section*.53}%
+\contentsline {subsubsection}{KPI3: data history}{34}{section*.55}%
+\contentsline {subsubsection}{KPI4: modifiablility}{34}{section*.56}%
+\contentsline {section}{\numberline {5.2}S2 KPIs evaluation}{35}{section.5.2}%
+\contentsline {subsubsection}{KPI1: traceability}{35}{section*.59}%
+\contentsline {subsubsection}{KPI2: latency}{36}{section*.60}%
+\contentsline {section}{\numberline {5.3}Summary of framework comparison}{37}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusion and Future work}{38}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Conclusion}{38}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Future work}{40}{section.6.2}%
+\contentsline {chapter}{Bibliography}{42}{chapter*.67}%
+\contentsline {chapter}{Appendix \numberline {A}DT workflow in bioprocessing domains}{47}{appendix.1.A}%
+\contentsline {chapter}{Appendix \numberline {B}Microbrewery physical workbench}{49}{appendix.1.B}%
+\contentsline {chapter}{Appendix \numberline {C}Kafka primer}{51}{appendix.1.C}%
+\contentsline {chapter}{Appendix \numberline {D}FMI revisit}{52}{appendix.1.D}%
+\contentsline {chapter}{Appendix \numberline {E}Human-in-the-loop control scheme}{53}{appendix.1.E}%

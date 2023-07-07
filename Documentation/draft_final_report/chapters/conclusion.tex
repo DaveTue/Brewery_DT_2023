@@ -1,0 +1,118 @@
+\section{Conclusion}
+This project contributes to the identification of the important aspects of integration and orchestration of DT models: (1) We identified the related literature, relevant requirements and KPIs. (2) We have investigated three distinctive frameworks which we believed suitable for DT developments and tested them for a microbrewery DT. In consequence, we have obtained findings that can answer the research questions:
+ 
+\begin{itemize}
+
+  \item \textbf{RQ1}: What are the key ingredients for integration and orchestration of models in different services for a microbrewery DT? \\ \newline
+	The microbrewery DT concerns a weeks-long bio-chemical process. Many of its process variables are inferential rather than directly detectable. Taken these characteristics together, the production prediction service (\textbf{S1}) has to inter-operate several numbers of entities effectively for a prolonged time frame in order to generate reliable predictions. We argue that a multi-stage or pipelining architecture can resolve the differences across the entities sufficiently well. Since it opens up more ways to combine integration and orchestration techniques by allowing the developer to add or swap individual stages. In this type of design, the emphasis is on the configurability, and modularity of individual stages. Working with flexible building blocks alleviates many constraints for the user when integrating distinctive models.
+	
+	Another implication of early stage configurations is that it correlates with high level of automation during the operation phases. Our results have shown that extensive initial setups of the DT system reduce the number of orchestration and integration steps that need operator interventions later, thus mitigating the chance of human errors. 
+	
+	In the production control service (\textbf{S2}), the operator is most interested in knowing the effect of the control actions. Therefore, the traceability within the system becomes particularly important. The traceability is dependent not only on data availability, even more so the semantics and explicitness of data need to be consistent for the operator to access them easily afterward. Therefore, the trade-off between the degree of data transformations---for the purpose of adapting in different systems/hardwares, etc---and data consistency need to be considered. The trade-off occurs as the data format is transformed in numerous workflow stages, the means of accessing the data may also change repeatedly. That leads to a higher chance of improper data retrieval or negligence by the user, which eventually undermines the data consistency.      
+	
+	Coming back to the research question, the key ingredients are configurability, modularity, and traceability. 
+	
+  \item  \textbf{RQ2}: How can these ingredients be generalized to benefit other application domains? \\ \newline
+  Most of the previously mentioned points will still hold in the DTs of other fields, as long as their development processes are also guided by MDSE and the 5D model. As these two concepts provide a structured view of a complex system, guiding developers toward the requirements and promoting the usage of recurring ingredients in order to eliminate rework. Nevertheless, in some circumstances, if a certain DT requires real-time processing within a very short cycle time, e.g., seconds, then the system timeliness becomes a more important issue. Our findings indicate that a monolithic orchestrating style has shorter delays than the distributed counterparts, mainly because it has inherently fewer communication points and synchronization barriers.
+  
+  As a result, when creating DTs for a new application domain, one should identify the unique requirements, and then utilize the MDSE methods and 5D model to incorporate the unique parts into the known patterns based on the past designs.
+   
+  \item  \textbf{RQ3}: In what circumstances do the selected frameworks best fit these ingredients?   \\ \newline  
+  From this project we have learned that the choice of frameworks depends highly on the specific use case. If one's use case stresses on minimizing manual integration and verification by humans, then TwinOps will be best suited as its CI/CD paradigm is made for that very purpose. For the use cases where the models are physically separated on different machines, ThingsBoard will be a wise choice as it is supported by the underlying IoT network. We consider Ptolemy II falls short of several crucial integration aspects as a DT framework, for its lack of data management components and its relatively inflexible user modifiability. However, it serves as a good experimentation framework for testing orchestrations thanks to the variety of MoCs it supports. Apart from that, the monolithic architecture of Ptolemy II allows the fastest overall speed, useful for dealing with time critical applications.
+  
+\end{itemize}
+
+To summarize, in this project we found out the frameworks of distinguishing styles can all accomplish the requirements of our microbrewery DT services. This is an encouraging finding because it allows users from different disciplines to choose what is best fit for their use cases and backgrounds---despite the different shortcomings within the individual framework to be overcame. We learned that multi-stage frameworks have the benefit of accepting more kinds of integration and orchestration techniques, but come with the cost of potentially slower system speed, and more complex system behavior traces, as the data exchanges across stages may be implemented differently. On the contrary, monolithic frameworks are less flexible with especially the integration aspects, but they have the advantage of faster system responsiveness. Ultimately, developers may take these findings as a guidance when designing their own frameworks for DTs of different use cases.
+
+
+\clearpage
+\section{Future work} \label{sec:futurework}
+For the research on frameworks, we can start looking for extension modules/packages that may compensate for the weaknesses in each framework, just as we have shown that Kafka was adopted as a data management tool to support the frameworks that lack it. The immediate focus will be on the property of time criticality. We are interested in how the framework determines if the operations can meet the deadlines in a real-time scenario, and how can it be guaranteed. Time criticality is prioritized because it is a crucial factor for many systems such as automotives that have safety requirements---unfortunately not the case of a microbrewery.
+
+As for the microbrewery case study, there four services proposed, but only two (\textbf{S1} and \textbf{S2}) have been implemented, and they both fall within the \textit{manufacturing phase} of the product life cycle. In this phase the main concern is the final production yield. 
+
+The other two services, \textbf{S3} (what-if scenarios) and \textbf{S4} (predictive maintenance) belong to the \textit{service phase} which holds a different kind of objective, especially more focusing on the user-orientated aspects than the \textit{manufacturing phase}. Because of that, we predict a new set of challenges and findings will arise, making them worthy of further investigations. Table \ref{tab:s3req} and \ref{tab:s4req} present the tentative requirements for \textbf{S3} and \textbf{S4}.
+
+\begin{table}[hbt!]
+\centering
+\begin{tabularx}{\textwidth}{|p{1cm}|X|}
+\hline
+\multicolumn{2}{|c|}{\textbf{Requirements}} \\
+\hline
+\textbf{ID} & \textbf{Requirement description} \\ 
+\hline            
+R1 & The scenario-specific data shall be handled separately from the master data. \\ 
+\hline
+R2 & The scenarios can be added, reset, and removed without affecting the master schedule. \\ 
+\hline
+R3 & The iterations of scenario may be stored and managed under version control.\\ 
+\hline
+\end{tabularx}
+\caption{S3 requirements}
+\label{tab:s3req}
+\end{table}
+
+\begin{table}[hbt!]
+\centering
+\begin{tabularx}{\textwidth}{|p{1cm}|X|}
+\hline
+\multicolumn{2}{|c|}{\textbf{Requirements}} \\
+\hline
+\textbf{ID} & \textbf{Requirement description} \\ 
+\hline            
+R1 & Dynamic data acquisition shall be used to update the static attributes in the predictive model. \\ 
+\hline
+R2 & Real-time measurements and simulated results shall be used in the retrofitting of the predictive model. \\ 
+\hline
+R3 & Data pruning and refining should be done before applying them to the predictive model \\ 
+\hline
+\end{tabularx}
+\caption{S4 requirements}
+\label{tab:s4req}
+\end{table}
+
+In the requirements for \textbf{S4} we can see a large proportion directs to the data processing aspect of the predictive model, it is because we plan to adopt a data-driven modelling approach for this service. It will be unlike the mechanistic models used in \textbf{S1} to \textbf{S3}, as the data quantity and quality will have greater influences on the final results.
+
+\newpage
+Likewise the KPIs for \textbf{S3} and \textbf{S4} are also proposed in Table \ref{tab:s3kpi} and Table \ref{tab:s4kpi}. Note that these are still in early stage of design therefore are subject to substantial refinements.
+
+\begin{table}[hbt!]
+\centering
+\begin{tabularx}{\textwidth}{|p{1cm}|p{2cm}|X|p{2cm}|}
+\hline
+\multicolumn{4}{|c|}{\textbf{KPIs}} \\ 
+\hline
+\textbf{ID} & \textbf{Name} & \textbf{Description} & \textbf{Verifies} \\ 
+\hline
+KPI1 & Scalability & To what extent are the additional space and time bounded. & R1, R2, R3 \\ 
+\hline
+KPI2 & Accessibility & Are the model instances of the scenarios easily accessible to the operator. & R1, R3 \\ 
+\hline
+KPI3 & Modularity & Is changeover of the setup for each scenario easily adaptable. & R2 \\ 
+\hline
+\end{tabularx}
+\caption{S3 KPIs}
+\label{tab:s3kpi}
+\end{table}
+
+\begin{table}[hbt!]
+\centering
+\begin{tabularx}{\textwidth}{|p{1cm}|p{2.5cm}|X|p{1.5cm}|}
+\hline
+\multicolumn{4}{|c|}{\textbf{KPIs}} \\ 
+\hline
+\textbf{ID} & \textbf{Name} & \textbf{Description} & \textbf{Verifies} \\ 
+\hline
+KPI1 & Accuracy & What is the error of the predictive model against real-world measurement. & R1, R2 \\ 
+\hline
+KPI2 & Data sufficiency & How missing data may affect the overall performance of predictive model. & R1, R2 \\ 
+\hline
+KPI3 & Data quality & How much volume, variety, and veracity of the data is lost as the result of transferring
+and merging. & R3 \\ 
+\hline
+\end{tabularx}
+\caption{S4 KPIs}
+\label{tab:s4kpi}
+\end{table}
+
+\newpage

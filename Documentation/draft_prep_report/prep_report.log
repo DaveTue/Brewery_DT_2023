@@ -1,0 +1,576 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.12)  25 JUN 2022 16:43
+entering extended mode
+**./prep_report.tex
+(prep_report.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (IEEEtran.cls
+Document Class: IEEEtran 2012/11/21 V1.8c by Harald Hanche-Olsen and Anders Chr
+istensen
+-- Based on V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpcountA=\count179
+\@IEEEtrantmpcountB=\count180
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+73.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+** ATTENTION: Single column mode is not typically used with IEEE publications.
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen140
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen141
+\CLASSINFOnormalsizeunitybaselineskip=\dimen142
+\IEEEnormaljot=\dimen143
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+\IEEEilabelindentA=\dimen144
+\IEEEilabelindentB=\dimen145
+\IEEEilabelindent=\dimen146
+\IEEEelabelindent=\dimen147
+\IEEEdlabelindent=\dimen148
+\IEEElabelindent=\dimen149
+\IEEEiednormlabelsep=\dimen150
+\IEEEiedmathlabelsep=\dimen151
+\IEEEiedtopsep=\skip47
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@IEEEsubequation=\count185
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count186
+\c@table=\count187
+\@IEEEeqnnumcols=\count188
+\@IEEEeqncolcnt=\count189
+\@IEEEtmpitemindent=\dimen152
+\c@IEEEbiography=\count190
+\@IEEEtranrubishbin=\box47
+) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen153
+\lightrulewidth=\dimen154
+\cmidrulewidth=\dimen155
+\belowrulesep=\dimen156
+\belowbottomsep=\dimen157
+\aboverulesep=\dimen158
+\abovetopsep=\dimen159
+\cmidrulesep=\dimen160
+\cmidrulekern=\dimen161
+\defaultaddspace=\dimen162
+\@cmidla=\count191
+\@cmidlb=\count192
+\@aboverulesep=\dimen163
+\@belowrulesep=\dimen164
+\@thisruleclass=\count193
+\@lastruleclass=\count194
+\@thisrulewidth=\dimen165
+)
+(C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count195
+\multirow@dima=\skip51
+\bigstrutjot=\dimen166
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen167
+\ar@mcellbox=\box48
+\extrarowheight=\dimen168
+\NC@list=\toks16
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box49
+)
+\TX@col@width=\dimen169
+\TX@old@table=\dimen170
+\TX@old@col=\dimen171
+\TX@target=\dimen172
+\TX@delta=\dimen173
+\TX@cols=\count196
+\TX@ftn=\toks17
+)
+(C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+
+(C:\Program Files\MiKTeX\tex/latex/everysel\everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+
+(C:\Program Files\MiKTeX\tex/latex/everysel\everysel-2011-10-28.sty))
+\CenteringLeftskip=\skip54
+\RaggedLeftLeftskip=\skip55
+\RaggedRightLeftskip=\skip56
+\CenteringRightskip=\skip57
+\RaggedLeftRightskip=\skip58
+\RaggedRightRightskip=\skip59
+\CenteringParfillskip=\skip60
+\RaggedLeftParfillskip=\skip61
+\RaggedRightParfillskip=\skip62
+\JustifyingParfillskip=\skip63
+\CenteringParindent=\skip64
+\RaggedLeftParindent=\skip65
+\RaggedRightParindent=\skip66
+\JustifyingParindent=\skip67
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+)
+(C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip68
+\subfigcapskip=\skip69
+\subfigcaptopadj=\dimen176
+\subfigbottomskip=\skip70
+\subfigcapmargin=\dimen177
+\subfiglabelskip=\skip71
+\c@subfigure=\count197
+\c@lofdepth=\count198
+\c@subtable=\count199
+\c@lotdepth=\count266
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip72
+\subfig@bottom=\skip73
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip74
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen178
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen179
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen180
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count272
+\c@MaxMatrixCols=\count273
+\dotsspace@=\muskip16
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks20
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks21
+\eqnshift@=\dimen181
+\alignsep@=\dimen182
+\tagshift@=\dimen183
+\tagwidth@=\dimen184
+\totwidth@=\dimen185
+\lineht@=\dimen186
+\@envbody=\toks22
+\multlinegap=\skip75
+\multlinetaggap=\skip76
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Program Files\MiKTeX\tex/latex/underscore\underscore.sty
+Package: underscore 2006/09/13
+LaTeX Info: Redefining \_ on input line 42.
+)
+(C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen187
+\captionmargin@=\dimen188
+\captionwidth=\dimen189
+\caption@tempdima=\dimen190
+\caption@indent=\dimen191
+\caption@parindent=\dimen192
+\caption@hangindent=\dimen193
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize {\centering \normalfont \footnotesize #1.\qquad \scshap
+e #2\par }\@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox 
+\@tempboxa \hbox {\normalfont \footnotesize {#1.}~~ #2}\ifdim \wd \@tempboxa >\
+hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}~~ }\parbox [t]{
+\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLA
+SSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \h
+fil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi
+ \fi \fi  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count279
+\c@continuedfloat=\count280
+Package caption Info: subfigure package is loaded.
+) (C:\Program Files\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip77
+\f@nch@O@elh=\skip78
+\f@nch@O@erh=\skip79
+\f@nch@O@olh=\skip80
+\f@nch@O@orh=\skip81
+\f@nch@O@elf=\skip82
+\f@nch@O@erf=\skip83
+\f@nch@O@olf=\skip84
+\f@nch@O@orf=\skip85
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count281
+\l__pdf_internal_box=\box52
+)
+(prep_report.aux)
+\openout1 = `prep_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen194
+\scratchbox=\box53
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen195
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks25
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 37.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
+4.
+
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) (prep_report.toc)
+\tf@toc=\write3
+\openout3 = `prep_report.toc'.
+
+ [1{C:/Users/andyl/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+
+pdfTeX warning: pdflatex (file ./figures/dt.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<figures/dt.pdf, id=12, 632.99689pt x 403.0461pt>
+File: figures/dt.pdf Graphic file (type pdf)
+<use figures/dt.pdf>
+Package pdftex.def Info: figures/dt.pdf  used on input line 83.
+(pdftex.def)             Requested size: 316.49767pt x 201.52255pt.
+[3 <./figures/dt.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/tao5d.pdf): PDF inclusion: found PDF v
+ersion <1.6>, but at most version <1.5> allowed
+<figures/tao5d.pdf, id=23, 397.9929pt x 286.80649pt>
+File: figures/tao5d.pdf Graphic file (type pdf)
+<use figures/tao5d.pdf>
+Package pdftex.def Info: figures/tao5d.pdf  used on input line 107.
+(pdftex.def)             Requested size: 238.79758pt x 172.08522pt.
+[4 <./figures/tao5d.pdf>] [5]
+
+pdfTeX warning: pdflatex (file ./figures/fmi_me.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<figures/fmi_me.pdf, id=44, 269.25876pt x 228.6432pt>
+File: figures/fmi_me.pdf Graphic file (type pdf)
+<use figures/fmi_me.pdf>
+Package pdftex.def Info: figures/fmi_me.pdf  used on input line 176.
+(pdftex.def)             Requested size: 161.55649pt x 137.18697pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/fmi_cs.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<figures/fmi_cs.pdf, id=45, 255.85869pt x 301.61383pt>
+File: figures/fmi_cs.pdf Graphic file (type pdf)
+<use figures/fmi_cs.pdf>
+Package pdftex.def Info: figures/fmi_cs.pdf  used on input line 177.
+(pdftex.def)             Requested size: 153.51639pt x 180.96968pt.
+[6 <./figures/fmi_me.pdf> <./figures/fmi_cs.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/moc.pdf): PDF inclusion: found PDF ver
+sion <1.6>, but at most version <1.5> allowed
+<figures/moc.pdf, id=51, 403.83533pt x 223.81718pt>
+File: figures/moc.pdf Graphic file (type pdf)
+<use figures/moc.pdf>
+Package pdftex.def Info: figures/moc.pdf  used on input line 196.
+(pdftex.def)             Requested size: 403.83434pt x 223.81662pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/sysml_tax.pdf): PDF inclusion: found P
+DF version <1.6>, but at most version <1.5> allowed
+<figures/sysml_tax.pdf, id=52, 520.30898pt x 226.64676pt>
+File: figures/sysml_tax.pdf Graphic file (type pdf)
+<use figures/sysml_tax.pdf>
+Package pdftex.def Info: figures/sysml_tax.pdf  used on input line 220.
+(pdftex.def)             Requested size: 416.24774pt x 181.31764pt.
+[7 <./figures/moc.pdf>] [8 <./figures/sysml_tax.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/intorc.pdf): PDF inclusion: found PDF 
+version <1.6>, but at most version <1.5> allowed
+<figures/intorc.pdf, id=101, 634.26021pt x 339.24039pt>
+File: figures/intorc.pdf Graphic file (type pdf)
+<use figures/intorc.pdf>
+Package pdftex.def Info: figures/intorc.pdf  used on input line 253.
+(pdftex.def)             Requested size: 317.12933pt x 169.61978pt.
+[9 <./figures/intorc.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/lifecycle.pdf): PDF inclusion: found P
+DF version <1.6>, but at most version <1.5> allowed
+<figures/lifecycle.pdf, id=111, 680.3769pt x 239.4265pt>
+File: figures/lifecycle.pdf Graphic file (type pdf)
+<use figures/lifecycle.pdf>
+Package pdftex.def Info: figures/lifecycle.pdf  used on input line 288.
+(pdftex.def)             Requested size: 340.18762pt x 119.71295pt.
+[10 <./figures/lifecycle.pdf>] [11]
+
+pdfTeX warning: pdflatex (file ./figures/approach.pdf): PDF inclusion: found PD
+F version <1.6>, but at most version <1.5> allowed
+<figures/approach.pdf, id=134, 722.7pt x 542.025pt>
+File: figures/approach.pdf Graphic file (type pdf)
+<use figures/approach.pdf>
+Package pdftex.def Info: figures/approach.pdf  used on input line 325.
+(pdftex.def)             Requested size: 361.3491pt x 271.01183pt.
+[12 <./figures/approach.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/researchsteps.pdf): PDF inclusion: fou
+nd PDF version <1.6>, but at most version <1.5> allowed
+<figures/researchsteps.pdf, id=156, 722.7pt x 542.025pt>
+File: figures/researchsteps.pdf Graphic file (type pdf)
+<use figures/researchsteps.pdf>
+Package pdftex.def Info: figures/researchsteps.pdf  used on input line 339.
+(pdftex.def)             Requested size: 433.62334pt x 325.2175pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/fivestep.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<figures/fivestep.pdf, id=157, 522.68045pt x 292.17458pt>
+File: figures/fivestep.pdf Graphic file (type pdf)
+<use figures/fivestep.pdf>
+Package pdftex.def Info: figures/fivestep.pdf  used on input line 351.
+(pdftex.def)             Requested size: 470.40805pt x 262.95468pt.
+[13 <./figures/researchsteps.pdf>] [14 <./figures/fivestep.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/o2ont.pdf): PDF inclusion: found PDF v
+ersion <1.6>, but at most version <1.5> allowed
+<figures/o2ont.pdf, id=235, 286.59853pt x 154.8425pt>
+File: figures/o2ont.pdf Graphic file (type pdf)
+<use figures/o2ont.pdf>
+Package pdftex.def Info: figures/o2ont.pdf  used on input line 401.
+(pdftex.def)             Requested size: 286.59782pt x 154.8421pt.
+[15 <./figures/o2ont.pdf>] [16] [17]
+
+pdfTeX warning: pdflatex (file ./figures/devops.pdf): PDF inclusion: found PDF 
+version <1.6>, but at most version <1.5> allowed
+<figures/devops.pdf, id=264, 377.6198pt x 254.43227pt>
+File: figures/devops.pdf Graphic file (type pdf)
+<use figures/devops.pdf>
+Package pdftex.def Info: figures/devops.pdf  used on input line 561.
+(pdftex.def)             Requested size: 226.57362pt x 152.66052pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/twinopsloop.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<figures/twinopsloop.pdf, id=265, 250.12778pt x 128.35052pt>
+File: figures/twinopsloop.pdf Graphic file (type pdf)
+<use figures/twinopsloop.pdf>
+Package pdftex.def Info: figures/twinopsloop.pdf  used on input line 568.
+(pdftex.def)             Requested size: 250.12715pt x 128.3502pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/lwm2m.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<figures/lwm2m.pdf, id=266, 408.09967pt x 484.53983pt>
+File: figures/lwm2m.pdf Graphic file (type pdf)
+<use figures/lwm2m.pdf>
+Package pdftex.def Info: figures/lwm2m.pdf  used on input line 577.
+(pdftex.def)             Requested size: 244.86168pt x 290.72614pt.
+
+
+pdfTeX warning: pdflatex (file ./figures/pt2meta.pdf): PDF inclusion: found PDF
+ version <1.6>, but at most version <1.5> allowed
+<figures/pt2meta.pdf, id=267, 409.96623pt x 345.31711pt>
+File: figures/pt2meta.pdf Graphic file (type pdf)
+<use figures/pt2meta.pdf>
+Package pdftex.def Info: figures/pt2meta.pdf  used on input line 586.
+(pdftex.def)             Requested size: 327.97342pt x 276.25404pt.
+[18 <./figures/devops.pdf> <./figures/twinopsloop.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 593.
+
+[19 <./figures/lwm2m.pdf>] [20 <./figures/pt2meta.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/timeline.pdf): PDF inclusion: found PD
+F version <1.6>, but at most version <1.5> allowed
+<figures/timeline.pdf, id=407, 454.21596pt x 499.06972pt>
+File: figures/timeline.pdf Graphic file (type pdf)
+<use figures/timeline.pdf>
+Package pdftex.def Info: figures/timeline.pdf  used on input line 774.
+(pdftex.def)             Requested size: 363.37326pt x 399.2563pt.
+[21 <./figures/timeline.pdf>] (prep_report.bbl [22] [23]) [24] (prep_report.aux
+) ) 
+Here is how much of TeX's memory you used:
+ 5208 strings out of 479299
+ 83255 string characters out of 2865809
+ 397486 words of memory out of 3000000
+ 22625 multiletter control sequences out of 15000+600000
+ 436506 words of font info for 83 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,12n,74p,1613b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type
+1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb
+8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/font
+s/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palati
+no/uplri8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Pr
+ogram Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fo
+nts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/u
+tmri8a.pfb>
+Output written on prep_report.pdf (24 pages, 1855446 bytes).
+PDF statistics:
+ 452 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+

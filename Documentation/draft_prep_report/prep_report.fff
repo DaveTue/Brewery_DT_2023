@@ -1,0 +1,79 @@
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[scale=0.5]{figures/intorc.pdf}
+  \caption{Integration (right) and orchestration (left)}
+  \label{fig:intorc}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[scale=0.5]{figures/dt.pdf}
+  \caption{Classification of digital twin}
+  \label{fig:dt}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[scale=0.6]{figures/tao5d.pdf}
+  \caption{5D view of DT model}
+  \label{fig:tao5d}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[hbt!]
+    \centering
+    \includegraphics[scale=0.6]{figures/fmi_me.pdf}
+    \includegraphics[scale=0.6]{figures/fmi_cs.pdf}
+    \caption{FMI for model exchange (left), and FMI for co-simulation (right) \cite{fmidoc}}
+    \label{fig:fmi}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[scale=1]{figures/moc.pdf}
+  \caption{MoCs supported in Ptolemy II \cite{Ptolemaeus2014}}
+  \label{fig:moc}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[scale=0.8]{figures/sysml_tax.pdf}
+  \caption{SysML diagram taxonomy \cite{sysmlspec}}
+  \label{fig:sysmltax}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[scale=0.9]{figures/fivestep.pdf}
+  \caption{The five-step implementation. This approach has been demonstrated in a design of DT for monoclonal antibodies manufacturing \cite{Helgers2022}}
+  \label{fig:fivestep}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[scale=1]{figures/o2ont.pdf}
+  \caption{Errors that can be detected by ontology checking  \cite{Ptolemaeus2014}}
+  \label{fig:o2ont}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[scale=0.5]{figures/lifecycle.pdf}
+  \caption{Services of microbrewery DT in different lifecycle phases}
+  \label{fig:lifecycle}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[scale=0.8]{figures/twinopsloop.pdf}
+  \caption{TwinOps forward and feedback loop \cite{Hugues2020}}
+  \label{fig:twinopsloop}
+\end{figure}
